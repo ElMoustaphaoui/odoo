@@ -6,7 +6,10 @@
 [![Nightly Builds](http://img.shields.io/badge/master-nightly-875A7B.svg?style=flat&colorA=8F8F8F)](http://nightly.odoo.com/)
 
 # I Used this ERP for education purposes !
+the scoop of the project: 
 
+<a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/ERP%20-%20Projet%20final%20-%20Instructions.pdf">the Project instructions </a>,
+<a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/CPS%20AUC.pdf">the cps for Casablanca commun</a>,
 
 Odoo
 ----
