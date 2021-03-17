@@ -9,7 +9,10 @@
 the scoop of the project: 
 
 <a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/ERP%20-%20Projet%20final%20-%20Instructions.pdf">the Project instructions </a>,
-<a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/CPS%20AUC.pdf">the cps for Casablanca commun</a>,
+<a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/CPS%20AUC.pdf">the cps for Casablanca commun</a>
+
+# My work :
+demo : https://drive.google.com/file/d/1drEvq2-OBXo7bAiPTMY5vQglujLttVni/view?usp=sharing
 
 Odoo
 ----
