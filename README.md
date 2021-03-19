@@ -12,8 +12,9 @@ the scoop of the project:
 <a href="https://github.com/ElMoustaphaoui/odoo/blob/14.0/CPS%20AUC.pdf">the cps for Casablanca commun</a>
 
 # My work :
-- demo : https://drive.google.com/file/d/1drEvq2-OBXo7bAiPTMY5vQglujLttVni/view?usp=sharing
-  Report : https://drive.google.com/file/d/1tZdDE6KYv0VLtEJ19zZm0LK2Dk9VONgH/view?usp=sharing
+* demo : https://drive.google.com/file/d/1drEvq2-OBXo7bAiPTMY5vQglujLttVni/view?usp=sharing
+* Report : https://drive.google.com/file/d/1tZdDE6KYv0VLtEJ19zZm0LK2Dk9VONgH/view?usp=sharing
+
 Odoo
 ----
 
